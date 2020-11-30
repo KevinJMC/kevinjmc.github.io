@@ -7,9 +7,10 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "test": "cypress",
+    "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "cy": "cypress:open"
   },
   "repository": {
     "type": "git",
